@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data analyst)](https://git.io/typing-svg)
 <!--
 **Olaniyidavid/Olaniyidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
