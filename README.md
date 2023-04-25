@@ -1,4 +1,7 @@
- 
+<h1 align=center>
+Hi, I'm Olaniyi David
+<img src="https://user-images.githubusercontent.com/75603128/231256750-dbd6f6e5-c26a-448b-bca1-9fd556a918fd.gif" width="30">
+</h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3E07FF&center=true&vCenter=true&width=435&lines=Data+analyst" alt="Typing SVG" /></a>
 
 <!--
