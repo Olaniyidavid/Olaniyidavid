@@ -43,8 +43,8 @@ Hi, I'm Olaniyi David
 
 <p align = "center">
     <img src = "https://img.shields.io/badge/Matplotlib-3.4.2-blue?logo=matplotlib">
-    <img src = "">
-    <img src = "">
+    <img src = "https://img.shields.io/badge/Beautiful%20Soup-4.9.3-green?logo=python&logoColor=white">
+    <img src = "https://img.shields.io/badge/Power%20BI-Blue?logo=Power-BI">
     <img src = "">
 </p>                 
 <!--
