@@ -18,6 +18,11 @@ Hi, I'm Olaniyi David
 ༼ つ ◕_◕ ༽つ
 ```
 <hr>
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+
 <!--
 **Olaniyidavid/Olaniyidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
