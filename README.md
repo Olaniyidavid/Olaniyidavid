@@ -13,18 +13,17 @@ Hi, I'm Olaniyi David
 
 ```
 💻 I am a self taught data analyst
-📚I have a Bachelors in Computer Science from the University of Mumbai at India
-📚 Learning about Neural Networks and Image Classification
-🌱 Currently exploring Deep Learning and its applications in ASL(American Sign Language)
-💞️ Would love to collaborate on ML, DL & AI projects
-༼ つ ◕_◕ ༽つ
+📚I have a Bachelors in Computer Science from Redeemers University, Ede, Osun State, Nigeria
+🌟 Main languages: Python, SQL
+📝 I have a strong interest in Deep Learning and Artificial Intelligence
+🌱 Currently exploring machine learning algorithms an its applications in building predictive models 
 ```
 <hr>
 
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-
+<div align = "center">
+    <h1> 💻Tech Stack 
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h1>
+</div>
 <!--
 **Olaniyidavid/Olaniyidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
