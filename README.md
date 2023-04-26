@@ -12,7 +12,7 @@ Hi, I'm Olaniyi David
 <hr>
 
 ```
-💻🏿‍🔧 I am a self taught data analyst
+💻 I am a self taught data analyst
 📚I have a Bachelors in Computer Science from the University of Mumbai at India
 📚 Learning about Neural Networks and Image Classification
 🌱 Currently exploring Deep Learning and its applications in ASL(American Sign Language)
