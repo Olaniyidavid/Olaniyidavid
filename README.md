@@ -31,10 +31,9 @@ Hi, I'm Olaniyi David
 </P>
 
 <p align = "center">
-    <img src= "https://img.shields.io/badge/Scikit-learn%20-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white">
-    <img src = "https://img.shields.io/badge/Matplotlib%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-    <img src = "">
-    <img src = "">
+    <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src = "">
 </p>
     
