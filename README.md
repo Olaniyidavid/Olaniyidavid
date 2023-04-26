@@ -8,7 +8,9 @@ Hi, I'm Olaniyi David
 </p>
 
 <img align="left" src="https://github.com/Olaniyidavid/Olaniyidavid/blob/main/GITHUB%20ANIME%202.JPG" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://user-images.githubusercontent.com/75603128/232074736-d1ae4c31-361a-4fb8-a4f2-2cb51728fafc.gif" width="250" height="200" href="https://www.reddit.com/r/animegifs/comments/1gtyaz/asleep_at_the_keyboard_golden_boy/" />
 <hr>
+
 ```
 👩🏿‍🔧 I am a Machine Learning Engineer
 💻 Interested in Deep Learning and AI
