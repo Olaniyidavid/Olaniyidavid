@@ -46,8 +46,10 @@ Hi, I'm Olaniyi David
     <img src = "https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img src = "https://img.shields.io/badge/Power%20BI-Blue?style=for-the-badge&logo=Power-BI">
-    
 </p>                 
+<p align = "center">
+<img src="https://github.com/Olaniyidavid/Olaniyidavid/blob/main/Aesthetic%20Anime%20City%20Sunset%20(1).gif">
+</p>
 <!--
 **Olaniyidavid/Olaniyidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
