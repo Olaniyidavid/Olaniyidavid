@@ -32,12 +32,16 @@ Hi, I'm Olaniyi David
 
 <p align = "center">
     <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src = "https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src = "https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&style=for-the-badge&logoColor=white">
 </p>
-    
-    <img src = "">
+
+<p align ="center">
+    <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+</p>
+
+<p align = "center">
     <img src = "">
     <img src = "">
     <img src = "">
