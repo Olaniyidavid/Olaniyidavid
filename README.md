@@ -32,7 +32,7 @@ Hi, I'm Olaniyi David
 
 <p align = "center">
     <img src= "https://img.shields.io/badge/Scikit-learn%20-%23FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white">
-    <img src = "https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    <img src = "https://img.shields.io/badge/Matplotlib%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     <img src = "">
     <img src = "">
     <img src = "">
