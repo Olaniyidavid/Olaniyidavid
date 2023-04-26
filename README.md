@@ -10,16 +10,12 @@ Hi, I'm Olaniyi David
 <img align="left" src="https://github.com/Olaniyidavid/Olaniyidavid/blob/main/GITHUB%20ANIME%202.JPG" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 ```
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-👨🏽‍💻 Check out my blog at pythonicnerds.me
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+👩🏿‍🔧 I am a Machine Learning Engineer
+💻 Interested in Deep Learning and AI
+📚 Learning about Neural Networks and Image Classification
+🌱 Currently exploring Deep Learning and its applications in ASL(American Sign Language)
+💞️ Would love to collaborate on ML, DL & AI projects
+༼ つ ◕_◕ ༽つ
 ```
 <hr>
 <!--
