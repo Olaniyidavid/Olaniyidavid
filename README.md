@@ -10,7 +10,6 @@ Hi, I'm Olaniyi David
 <img align="left" src="https://github.com/Olaniyidavid/Olaniyidavid/blob/main/GITHUB%20ANIME%202.JPG" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 ```
--------------------------
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 👨🏽‍💻 Check out my blog at pythonicnerds.me
 📚 I have a Bachelors in Computer Science from the University of Mumbai at India
