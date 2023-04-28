@@ -52,6 +52,7 @@ Hi, I'm Olaniyi David
 </p>
 
 <hr>
+
 ### 🖥️ My Projects
 
 <!--
