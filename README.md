@@ -61,12 +61,15 @@ Hi, I'm Olaniyi David
 
 |Title | Technologies|
 |--|--|
-| [FIFA 22 Exploratory Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/FIFA%20PROJECT%20(1).ipynb) |   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib)![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
-| [Image Classification of Numbers in Sign Language](https://github.com/posi-olomo/Sign-Language-Number-Image-Classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras)|
-| [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
-| [Disaster Tweets Predictor [NLP]](https://github.com/posi-olomo/Disaster-Tweets-Predictor-NLP) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
-| [Titanic Machine Learning Competition](https://github.com/posi-olomo/Titanic-Machine-Learning-Competition) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |    
+| [FIFA 22 Exploratory Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/FIFA%20PROJECT%20(1).ipynb) |   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib)![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue?style=for-the-badge&logo=pandas)![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
 
+</td><td>
+    
+|Title | Technologies|
+|--|--|
+| [Jobberman Scraper](https://github.com/Olaniyidavid/WEBSCRAPING-SCRIPTS/blob/main/Jobberman%20scrapper.ipynb) |  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue?style=for-the-badge&logo=pandas) ![Beautifulsoup](https://img.shields.io/badge/Beautiful%20Soup-4-yellow?style=for-the-badge&logo=python)|
+| [NigerianPropertyPro Scraper](https://github.com/Olaniyidavid/WEBSCRAPING-SCRIPTS/blob/main/NIGERIAPROPERTY%20PRO%20SCRAPING.ipynb) |  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue?style=for-the-badge&logo=pandas) ![Beautifulsoup](https://img.shields.io/badge/Beautiful%20Soup-4-yellow?style=for-the-badge&logo=python)|
+| [WEST AFRICA GDP Scraper](https://github.com/Olaniyidavid/WEBSCRAPING-SCRIPTS/blob/main/WEST%20AFRICA%20GDP%20SCRAPER.ipynb) |  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue?style=for-the-badge&logo=pandas) ![Beautifulsoup](https://img.shields.io/badge/Beautiful%20Soup-4-yellow?style=for-the-badge&logo=python)|
 <!--
 **Olaniyidavid/Olaniyidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
