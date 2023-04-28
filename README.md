@@ -50,6 +50,10 @@ Hi, I'm Olaniyi David
 <p align = "center">
 <img src="https://github.com/Olaniyidavid/Olaniyidavid/blob/main/Aesthetic%20Anime%20City%20Sunset%20(1).gif">
 </p>
+
+<hr>
+### 🖥️ My Projects
+
 <!--
 **Olaniyidavid/Olaniyidavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
