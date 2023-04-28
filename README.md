@@ -60,7 +60,7 @@ Hi, I'm Olaniyi David
 
 |Title | Technologies|
 |--|--|
-| [FIFA 22 Exploratory Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/FIFA%20PROJECT%20(1).ipynb) |   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib)|
+| [FIFA 22 Exploratory Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/FIFA%20PROJECT%20(1).ipynb) |   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib)![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Image Classification of Numbers in Sign Language](https://github.com/posi-olomo/Sign-Language-Number-Image-Classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras)|
 | [Iowa House Price Predictor](https://github.com/posi-olomo/Iowa-House-Price-Predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
 | [Disaster Tweets Predictor [NLP]](https://github.com/posi-olomo/Disaster-Tweets-Predictor-NLP) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas) |
