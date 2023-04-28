@@ -44,6 +44,7 @@ Hi, I'm Olaniyi David
 <p align = "center">
     <img src = "https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib">
     <img src = "https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img src = "https://img.shields.io/badge/Pandas-1.3.0-blue?style=for-the-badge&logo=pandas">
     <img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img src = "https://img.shields.io/badge/Power%20BI-Blue?style=for-the-badge&logo=Power-BI">
 </p>                 
