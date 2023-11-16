@@ -62,7 +62,7 @@ Hi, I'm Olaniyi David
 |Title | Technologies|
 |--|--|
 | [FIFA 22 Exploratory Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/FIFA%20PROJECT%20(1).ipynb) |   ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.2-blue?style=for-the-badge&logo=matplotlib)![Pandas](https://img.shields.io/badge/Pandas-1.3.0-blue?style=for-the-badge&logo=pandas)![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
-| [SQL Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/DATA%20%20ANALYSIS%20SQL.ipynb) |   ![SQL](https://img.shields.io/badge/SQL%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| [SQL Data Analysis](https://github.com/Olaniyidavid/DATA-ANALYSIS/blob/master/DATA%20%20ANALYSIS%20SQL.ipynb) |   ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
 
 
 </td><td>
